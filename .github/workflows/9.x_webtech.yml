@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'webtech'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_907BBCC43C9941B5811929A1E6B9C5F9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D4DCB1C8AA5C40DE980A25FF6016A343 }}
           package: .
